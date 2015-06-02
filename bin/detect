@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo 'lighttpd'
+
+exit 0
